@@ -1,0 +1,10 @@
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\bin\Debug\Econtact.exe.config
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\bin\Debug\Econtact.exe
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\bin\Debug\Econtact.pdb
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\obj\Debug\Econtact.csprojResolveAssemblyReference.cache
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\obj\Debug\Econtact.Econtact.resources
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\obj\Debug\Econtact.csproj.GenerateResource.Cache
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\obj\Debug\Econtact.exe
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\obj\Debug\Econtact.pdb
+C:\Users\Thilina chathuranga\Desktop\econtact\Econtact\Econtact\bin\Debug\MySql.Data.xml
